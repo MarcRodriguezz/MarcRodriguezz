@@ -107,6 +107,15 @@ Software Developer specialised in **ERP Odoo development** and **full-stack appl
 
 ---
 
+## Let's Connect
+
+If you'd like to collaborate, discuss a project, or just say hi — feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-rodriguez-cañero-2602422b3)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcrodriguez231@gmail.com)
+
+---
+
 <div align="center">
   <i>Open to new opportunities — Let's build something great together.</i>
 </div>
