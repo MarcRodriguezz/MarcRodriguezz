@@ -2,7 +2,7 @@
 
 # Marc Rodriguez Cañero
 
-**ERP Odoo Developer · Full-Stack Software Developer · DevOps Enthusiast**
+**ERP Odoo Developer · Full-Stack Software Developer**
 
 📍 Sabadell, Catalonia, Spain &nbsp;|&nbsp; 🌏 Available remotely
 
@@ -18,7 +18,6 @@
 Software Developer specialised in **ERP Odoo development** and **full-stack application engineering**, with a strong background in cloud infrastructure, microservices, and process automation.
 
 - Computer Engineering degree from the **Universitat Autònoma de Barcelona**
-- Currently based in **Australia**, expanding English skills while working remotely
 - Passionate about scalable, efficient, tailor-made software that helps businesses grow
 
 ---
